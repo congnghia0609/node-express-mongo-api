@@ -4,6 +4,7 @@
   "description": "node-express-mongo-api is a module server REST API example using NodeJs, Express, MongoDB",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
