@@ -1,0 +1,32 @@
+{
+  "name": "node-express-mongo-api",
+  "version": "1.0.0",
+  "description": "node-express-mongo-api is a module server REST API example using NodeJs, Express, MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congnghia0609/node-express-mongo-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "nghiatc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/congnghia0609/node-express-mongo-api/issues"
+  },
+  "homepage": "https://github.com/congnghia0609/node-express-mongo-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21"
+  }
+}
